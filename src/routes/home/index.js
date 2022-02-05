@@ -24,28 +24,32 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Meu nome é FERNANDO REIS. Sou Formado em Ciência da Computação no CIESA. Atualmemte Desenvolvo sistemas WEB
-					Voltado para Front-End e Back-End, usando Tecnologias como ReactJS, NodeJS, HTML5, CSS3, BOOTSTRAP, ANGULARJS ETC.
-					Gosto muito de programar e obter conhecimentos pois Estou em busca de oportunidades.
+						Meu nome é FERNANDO REIS. Sou Formado em Ciência da Computação no CIESA. Tenho 26 anos, Casado e Tenho um filho 
+						lindo chamado Arthur Davi.
+						Atualmente Tenho experiência em NodeJS, ReactJS, MaterialUI, PHP, WordPress, Joomla, AngularJS,
+						SQL SERVER, MYSQL, SCRUM, KANBAN. Entre Outras. Sou dedicado e gosto de aprender linguagens e Tecnologias novas.
 					</div>
-					<div class={style.author}>- Fernando, Analista Desenvolvedor Trainee</div>
+					<div class={style.author}>-Mid IT Support Technician at Flex </div>
 				</div>
 			</div>
 			<div class={style.bio}>
 				<p class={style.bioleft}>
-					Olá você está no meu pequeno Site que Desenvolvi usando ReactJS, sempre gostei de Tecnologias
+					Olá você está no meu pequeno Portfólio que Desenvolvi usando ReactJS. Sempre gostei de Tecnologias
 					como celulares, videogames, notebooks e computadores. Aos 14 anos comecei a fazer cursos de informática,
-					básico ao avançado, inglês entre outros cursos e palestras voltadas para Tecnologias. No Ensino Médio já
-					tinha optado por cursar faculdade na área de tecnologia.
+					básico ao avançado, pacote do office, inglês, entre outros cursos e palestras voltadas para Tecnologias.
+					Daí iniciou minha vontade de estudar e trabalhar na área de tecnologia. No Ensino Médio já
+					tinha optado por cursar faculdade na área de tecnologia, precisamente em Ciência da Computação.
 				</p>
 				<p class={style.bioright}>
 					Em 2015 comecei a cursar Ciência da Computação no Centro Universitário De Ensino superior Do
 					Amazonas - CIESA. Durante a faculdade dei início no desenvolvimento de pequenos projetos, e isso 
-					me levou a gostar ainda mais de desenvolver softwares. E os cursos e palestras praticados durante e após 
-					a faculdade me ajudam a seguir em frente e buscar ainda mais conhecimentos.
+					me levou a gostar ainda mais de desenvolver softwares. E cursos e palestras praticados durante 
+					a faculdade me ajudam a seguir em frente e buscar ainda mais conhecimentos. Fiz cursos de desenvolvimento web
+					 na fundação paulo feitosa - FPF.
+					ReactJS e NodeJS, SQL Server e typescript no Alura.
 				</p>
 			</div>
-		</div>
+		</div> 
 	);
 };
 
