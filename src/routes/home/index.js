@@ -4,10 +4,6 @@ import style from "./style";
 
 const Home = () => {
 
-	/**
-	 * Netlify CMS's accept invite link land on home page.
-	 * This redirection takes it to the right place(/admin).
-	 */
 
 	useEffect(() => {
 		if (window !== undefined && window.location.href.includes('#invite_token')) {
@@ -57,7 +53,7 @@ const Home = () => {
 		
 	);
 };
-
+ 
 
 
 export default Home;

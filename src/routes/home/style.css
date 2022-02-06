@@ -10,7 +10,7 @@
   .imageContainer {
 	flex: 1;
   }
-   
+    
   .image {
 	  height: 30vw;
 	  background-image: url(/assets/family.jpg);
