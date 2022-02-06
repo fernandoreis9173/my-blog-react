@@ -18,6 +18,7 @@ const Home = () => {
 
 	return (
 		<div class={style.home}>
+			
 			<div class={style.about}>
 				<div class={style.imageContainer}>
 					<div class={style.image} />
@@ -49,8 +50,14 @@ const Home = () => {
 					ReactJS e NodeJS, SQL Server e typescript no Alura.
 				</p>
 			</div>
+			<div>
+			
+			</div>
 		</div> 
+		
 	);
 };
+
+
 
 export default Home;

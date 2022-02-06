@@ -10,6 +10,6 @@ const Header = () => (
 			<Link activeClassName={style.active} href="/contact">Contatos</Link>
 		</nav>
 	</header>
-);
+); 
 
 export default Header;

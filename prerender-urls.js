@@ -9,7 +9,7 @@ module.exports = () => {
 		{
 			url: '/',
 			seo: {
-				cover: '/assets/family.jpg'
+				cover: '/assets/profile.jpg'
 			}
 		},
 		{ url: '/contact/' },
@@ -23,19 +23,19 @@ module.exports = () => {
 	});
 
 	// adding all blog pages
-	pages.push(...blogs.edges.map(fernando => {
+	pages.push(...blogs.edges.map(blog => {
 		let data;
-		if (fernando.format === 'md') {
-			const { content } = parseMD(fs.readFileSync(join('content', 'fernando', fernando.id), 'utf-8'));
+		if (blog.format === 'md') {
+			const { content } = parseMD(fs.readFileSync(join('content', 'blog', blog.id), 'utf-8'));
 			data = content;
 		} else {
-			data = fs.readFileSync(join('content', 'fernando', fernando.id), 'utf-8').replace(/---(.*(\r)?\n)*---/, '');
+			data = fs.readFileSync(join('content', 'blog', blog.id), 'utf-8').replace(/---(.*(\r)?\n)*---/, '');
 		}
 		return {
-			url: `/fernando/${fernando.id}`,
-			seo: fernando.details,
+			url: `/blog/${blog.id}`,
+			seo: blog.details,
 			data: {
-				details: fernando.details,
+				details: blog.details,
 				content: data
 			}
 		};

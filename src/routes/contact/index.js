@@ -9,12 +9,12 @@ const photographs = (props) => {
 				<p class={style.pageBody}>
 					<div>Hi!</div>
 					<div>Se Você gostou do que viu e quer tirar dúvidas ou conversar melhor, mande
-						 um email ou whatsapp (92)99984-5104</div>
+						 um email ou whatsapp</div>
 						 <div>&nbsp;</div>
 					<div>
-						<a href="https://www.linkedin.com/in/fernando-reis-79b643144/">LINKEDIN</a><br/><br/>
-						<a href="https://github.com/fernandoreis9173">GITHUB</a><br/><br/>
-						<a href="https://drive.google.com/file/d/1po0_DxzDwqUVbqxTX2MFpkoZRHOmnnFO/view?usp=sharing">CURRICULUM</a>
+						<a href="https://www.linkedin.com/in/fernando-reis-79b643144/" target="_blank">LINKEDIN</a><br/><br/>
+						<a href="https://github.com/fernandoreis9173" target="_blank">GITHUB</a><br/><br/>
+						
 					</div>
 					<div>&nbsp;</div>
 					<div>Abraços 🍻</div>
@@ -35,6 +35,7 @@ const photographs = (props) => {
 					</p>
 				</form>
 			</div>
+			<object data="../assets/fernando.pdf" type="application/pdf"><p>CURRICULUM</p></object>
 		</div>
 	);
 };
