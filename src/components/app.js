@@ -34,6 +34,7 @@ export default class App extends Component {
 						<ContactSuccess path="/contact/success" />
 						<NotFoundPage type="404" default />
 					</Router>
+					
 				</div>
 			</Provider>
 		);
