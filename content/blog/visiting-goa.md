@@ -1,8 +1,10 @@
+<div style="padding: 5px;">
 ---
 title: Para Recrutadores
 date: 2019-09-07T05:43:53.681Z
 tags: ' recruiters , Human Resources '
 ---
+
 Olá Sr(a) meu nome é Fernando Silva Dos Reis tenho 26 anos, sou formado em Ciência da Computação pelo CENTRO UNIVERSITARIO DE ENSINO SUPEIOR DO AMAZONAS - CIESA. Tenho experiência em Suporte de T.I e conhecimentos em linguagens de programação como PHP, HTML5, CSS3, BOOTSTRAP, REACTJS, NODEJS, ANGULARJS, JAVASCRIPT, TYPESCRIPT, MYSQL, SQL SERVER, MONGODB, HEROKU, SCRUM, POSTGRESQL, XP, KANBAN entre outras.
 
 Atualmente Sou casado, Tenho um filho de 1 ano, moro em novo aleixo em manaus, AM. 
@@ -51,3 +53,5 @@ Sou muito dedicado no que eu faço, gosto de está aprendendo e ensinando, obten
 
 
 <img src="../assets/pensamento.jpg">
+
+<br/>
