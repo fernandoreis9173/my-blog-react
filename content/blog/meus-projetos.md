@@ -1,26 +1,4 @@
 <div style="padding: 5px;">
-<styles>
-#img_empresa {
-vertical-align: middle;
-border-style: none;
-width: 70%;
-height: auto;
--moz-transition: all 0.3s;
--webkit-transition: all 0.3s;
-transition: all 0.3s;
-}
-
-#img_empresa:hover {
-vertical-align: middle;
-border-style: none;
-width: 100%;
-height: auto;
--moz-transition: all 0.3s;
--webkit-transition: all 0.3s;
-transition: all 0.3s;
-}
-
-</styles>
 ---
 title: Meus Projetos
 date: 2022-06-18T05:43:53.681Z
