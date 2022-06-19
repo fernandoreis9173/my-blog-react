@@ -20,6 +20,7 @@
   max-width: 100%;
 }
 
+
 .blogbody a {
   color: #000;
   text-decoration: underline;
@@ -111,7 +112,7 @@ code.inline {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 80%;
+  width: 100%;
   margin: 32px auto;
 }
 
