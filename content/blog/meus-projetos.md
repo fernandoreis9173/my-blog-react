@@ -35,4 +35,5 @@ Todos os projetos podem ser encontrados do meu GITHUB.
         <img src="../assets/ehsfire/tela-cadastros-ehsfire.jpeg"/>
         <img src="../assets/ehsfire/tela-cadbrigadista-ehsfire.jpeg"/>
 </div>
+</div>
 <br/>
