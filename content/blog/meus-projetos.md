@@ -17,7 +17,7 @@ Todos os projetos podem ser encontrados do meu GITHUB.
             saber qual o SSD com o partnumber e quantidades que precisam ser Faturados.
         </p>
         <img src="/assets/ssd/tela-login-ssd.jpeg"/>
-        <img src="./assets/ssd/tela-principal-ssd.jpeg"/>
+        <img src="/assets/ssd/tela-principal-ssd.jpeg"/>
 </div>
 
 <div>
@@ -30,9 +30,9 @@ Todos os projetos podem ser encontrados do meu GITHUB.
             Os Cadastros a serem feitos são os EXTINTORES, BRIGADISTAS, LOCAIS E DESTINOS a serem tomados esses extintores.
         </p>
         <img src="/assets/ehsfire/tela-login-ehsfire.jpeg"/>
-        <img src="../assets/ehsfire/tela-inicio-ehsfire.jpeg"/>
-        <img src="../assets/ehsfire/tela-dashbord-ehsfire.jpeg"/>
-        <img src="../assets/ehsfire/tela-cadastros-ehsfire.jpeg"/>
-        <img src="../assets/ehsfire/tela-cadbrigadista-ehsfire.jpeg"/>
+        <img src="/assets/ehsfire/tela-inicio-ehsfire.jpeg"/>
+        <img src="/assets/ehsfire/tela-dashbord-ehsfire.jpeg"/>
+        <img src="/assets/ehsfire/tela-cadastros-ehsfire.jpeg"/>
+        <img src="/assets/ehsfire/tela-cadbrigadista-ehsfire.jpeg"/>
 </div>
 <br/>
