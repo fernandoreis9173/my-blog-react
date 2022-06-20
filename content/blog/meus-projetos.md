@@ -16,8 +16,8 @@ Todos os projetos podem ser encontrados do meu GITHUB.
             pelo novo. Essa aplicação ajuda o time de Planejamento mostrar o relatorio para o time de WAREHOUSE
             saber qual o SSD com o partnumber e quantidades que precisam ser Faturados.
         </p>
-        <img src="/assets/ssd/tela-login-ssd.jpeg"/>
-        <img src="/assets/ssd/tela-principal-ssd.jpeg"/>
+        <img src="../assets/ssd/tela-login-ssd.jpeg"/>
+        <img src="./assets/ssd/tela-principal-ssd.jpeg"/>
 </div>
 
 <div>
