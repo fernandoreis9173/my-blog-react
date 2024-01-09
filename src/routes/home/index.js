@@ -21,12 +21,13 @@ const Home = () => {
 				</div>
 				<div class={style.quote}>
 					<div class={style.details}>
-						Meu nome é FERNANDO REIS. Sou Formado em Ciência da Computação no CIESA. Tenho 26 anos, Casado e Tenho um filho 
-						lindo chamado Arthur Davi.
-						Atualmente Tenho experiência em NodeJS, ReactJS, MaterialUI, PHP, WordPress, Joomla, AngularJS,
-						SQL SERVER, MYSQL, SCRUM, KANBAN. Entre Outras. Sou dedicado e gosto de aprender linguagens e Tecnologias novas.
+						Sou Formado em Ciência da Computação no CIESA. Tenho 27 anos, Casado e Tenho um filho.
+						Atualmente Tenho experiência em NodeJS, ReactJS, Asp.Net Core, Bootstrap, MaterialUI, PHP, Laravel, WordPress, Joomla,
+						AngularJS, SQL SERVER, MYSQL, SCRUM, KANBAN e entre outras. <br/>
+						Tenho Pós-Graduação em Ciência de Dados (UNIASSELVE) e estou cursando Pós-Graduação Desenvolvimento de
+						software para alto desempenho (UEA).
 					</div>
-					<div class={style.author}>-Mid IT Support Technician at Flex </div>
+					<div class={style.author}>-Sr IT Support Technician at Flex </div>
 				</div>
 			</div>
 			<div class={style.bio}>
@@ -40,10 +41,12 @@ const Home = () => {
 				<p class={style.bioright}>
 					Em 2015 comecei a cursar Ciência da Computação no Centro Universitário De Ensino superior Do
 					Amazonas - CIESA. Durante a faculdade dei início no desenvolvimento de pequenos projetos, e isso 
-					me levou a gostar ainda mais de desenvolver softwares. E cursos e palestras praticados durante 
-					a faculdade me ajudam a seguir em frente e buscar ainda mais conhecimentos. Fiz cursos de desenvolvimento web
-					 na fundação paulo feitosa - FPF.
-					ReactJS e NodeJS, SQL Server e typescript no Alura.
+					me levou a gostar ainda mais de desenvolver softwares. Cursos e palestras me ajudaram a seguir em frente e buscar ainda mais conhecimentos.
+					Fiz curso de desenvolvimento web na fundação paulo feitosa - FPF.
+					ReactJS e NodeJS, SQL Server, typescript, ASP.NET Core no Alura.<br/>
+						<hr/>
+						Meu maior objetivo em 2024 é aprender inglês e para isso já estou imerso ao idioma cursando inglês na UEA e APPs diariamente.
+						 Lendo, ouvindo, e escrevendo Textos em inglês, Ouvindo músicas, assistindo series e praticando diariamente, segundo os poliglotas esse é o caminho.
 				</p>
 			</div>
 			<div>
