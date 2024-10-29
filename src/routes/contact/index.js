@@ -7,9 +7,9 @@ const photographs = (props) => {
 			<h1 class={style.pageTitle}>Contate-Me</h1>
 			<div class={style.formWrapper}>
 				<p class={style.pageBody}>
-					<div>Hi!</div>
-					<div>Se Você gostou do que viu e quer tirar dúvidas ou conversar melhor, mande
-						um email ou whatsapp</div>
+					<div>Ola!</div>
+					<div>Se Você gostou do que viu e quer tirar dúvidas ou conversar melhor,<br/>
+					por favor mande um email ou whatsapp</div>
 					<div>&nbsp;</div>
 					<div>
 						<a href="https://www.linkedin.com/in/fernando-reis-79b643144/" target="_blank">LINKEDIN</a><br /><br />
