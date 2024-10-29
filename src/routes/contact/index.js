@@ -4,7 +4,7 @@ import style from './style';
 const photographs = (props) => {
 	return (
 		<div class={style.pageContact}>
-			<h1 class={style.pageTitle}>Contate-Me</h1>
+			<h1 class={style.pageTitle}>Contate-Me para mais</h1>
 			<div class={style.formWrapper}>
 				<p class={style.pageBody}>
 					<div>Ola!</div>
